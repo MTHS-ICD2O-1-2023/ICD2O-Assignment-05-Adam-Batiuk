@@ -10,10 +10,3 @@
 .mdl-layout__header-row {
   justify-content: center;
 }
-
-.right-image {
-  height: auto;
-  width: 500px;
-  float: right;
-  padding: 40px;
-}
